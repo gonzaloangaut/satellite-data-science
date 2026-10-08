@@ -6,7 +6,7 @@ The project studies the structure of the satellite population and investigates w
 
 ## Why This Matters
 
-Understanding how long satellites are expected to remain in service or in orbit is relevant to the long-term evolution of the orbital environment.
+Understanding the expected operational lifetime of satellites is relevant to modeling the long-term evolution of the orbital environment.
 
 This project does **not** directly predict future space-debris generation. Instead, expected-lifetime prediction can be viewed as one component of a broader population-forecasting framework. Combined with launch-rate scenarios, orbital-decay and disposal models, and collision or fragmentation risk, lifetime estimates could help characterize how satellite populations and orbital congestion may evolve over time.
 
